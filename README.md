@@ -1,169 +1,133 @@
 <div align="center">
 
-# 👋 Hello, I'm **Jalolov Jamshid**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:06b6d4&height=220&section=header&text=Jalolov%20Jamshid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20FastAPI&descAlignY=58&descSize=18"/>
 
-### 💻 Full-Stack Developer | React & Python Enthusiast
+<br>
 
-<p>
-  <a href="https://github.com/Jamshidjalolov">
-    <img src="https://img.shields.io/badge/GitHub-Jamshidjalolov-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://portfolio-kappa-three-537gquwsz7.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:jamshidjalolov6767@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+%E2%9A%A1;Python+%7C+FastAPI+%7C+PostgreSQL+%F0%9F%90%8D;Building+Modern+Web+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=120&section=header"/>
+<br><br>
+
+<a href="https://github.com/Jamshidjalolov">
+<img src="https://img.shields.io/badge/GitHub-Jamshidjalolov-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-kappa-three-537gquwsz7.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:jamshidjalolov6767@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Jamshidjalolov&label=PROFILE%20VIEWS&color=4f46e5&style=for-the-badge"/>
 
 </div>
 
-## 🚀 About Me
+---
 
-```javascript
-const jamshid = {
-    name: "Jalolov Jamshid",
-    role: "Full-Stack Developer",
-    location: "Uzbekistan 🇺🇿",
-    
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "React Native",
-        "Tailwind CSS",
-        "Bootstrap",
-        "Sass"
-    ],
+# 👨‍💻 About Me
 
-    backend: [
-        "Python",
-        "FastAPI",
-        "Node.js"
-    ],
+<img align="right" width="330" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Developer.gif"/>
 
-    database: [
-        "PostgreSQL",
-        "SQL",
-        "Firebase"
-    ],
+```yaml
+Name: Jalolov Jamshid
+Role: Full-Stack Developer
+Focus: Modern Web Applications
+Location: Uzbekistan 🇺🇿
 
-    tools: [
-        "Git",
-        "GitHub",
-        "GitHub Actions",
-        "VS Code",
-        "Vite",
-        "Vercel",
-        "Netlify"
-    ],
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - JavaScript
+  - Tailwind CSS
+  - Bootstrap
 
-    currentlyLearning: "Building scalable and modern applications 🚀"
-};
+Backend:
+  - Python
+  - FastAPI
+  - Node.js
+
+Database:
+  - PostgreSQL
+  - Firebase
+  - SQL
+
+Tools:
+  - Git
+  - GitHub
+  - GitHub Actions
+  - Vite
+  - VS Code
+  - Vercel
+  - Netlify
+
+Goal:
+  Build useful, scalable and beautiful applications 🚀
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 🌐 Frontend
+### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite&perline=10"/>
 </p>
 
-### ⚙️ Backend
+### 🧠 Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&perline=10"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,vercel,netlify&perline=10"/>
 </p>
 
-### 🔧 Tools & DevOps
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,netlify" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&perline=10"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Jamshidjalolov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4f46e5&icon_color=4f46e5&count_private=true" />
-
-<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Jamshidjalolov&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4f46e5&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jamshidjalolov&theme=tokyonight&hide_border=true&background=00000000&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Jamshidjalolov&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jamshidjalolov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-</div>
-
----
-
-## 💻 What I Build
+# 🚀 What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Applications
+### 🌐 Frontend Development
 
-* ⚛️ React Applications
-* 🟦 TypeScript Projects
-* ⚡ Next.js Applications
-* 🎨 Tailwind / Bootstrap UI
-* 📱 Responsive Websites
+⚛️ React applications
+🔷 TypeScript development
+▲ Next.js applications
+🎨 Modern UI/UX
+📱 Responsive design
+⚡ Performance optimization
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend Systems
+### ⚙️ Backend Development
 
-* 🐍 Python APIs
-* 🚀 FastAPI Services
-* 🟢 Node.js Backends
-* 🐘 PostgreSQL Databases
-* 🔥 Firebase Applications
+🐍 Python APIs
+🚀 FastAPI services
+🟢 Node.js applications
+🐘 PostgreSQL databases
+🔥 Firebase systems
+🔐 REST API development
 
 </td>
 </tr>
@@ -171,46 +135,151 @@ const jamshid = {
 
 ---
 
-## 🚀 Featured Technologies
+# 💎 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Jamshidjalolov">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidjalolov&repo=qarz-boshqaruv&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/Jamshidjalolov">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamshidjalolov&repo=food-shop&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+> 💡 Project repository nomlari sizdagi GitHub repo nomlariga mos kelmasa, yuqoridagi `repo=` qismini o'zingizdagi repo nomlariga almashtiring.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jamshidjalolov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshidjalolov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=4F46E5"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jamshidjalolov&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jamshidjalolov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jamshidjalolov&bg_color=0D1117&color=4F46E5&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧩 My Developer Mindset
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💡
+
+**Create**
+
+Turning ideas
+into products.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Build**
+
+Writing clean
+and scalable code.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Improve**
+
+Learning new
+technologies.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥
+
+**Ship**
+
+Building things
+that matter.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 💬 Developer Quote
 
 <div align="center">
 
-```text
-████████████████████████████████████████  React
-██████████████████████████████████████░░  Python
-████████████████████████████████████░░░░  FastAPI
-██████████████████████████████████░░░░░░  PostgreSQL
-████████████████████████████████░░░░░░░░  Next.js
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -219,11 +288,11 @@ const jamshid = {
 </a>
 
 <a href="https://portfolio-kappa-three-537gquwsz7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:jamshidjalolov6767@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -234,10 +303,10 @@ const jamshid = {
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Jamshidjalolov&label=Profile%20Views&color=4f46e5&style=for-the-badge" />
+**If you like my projects, consider giving them a ⭐**
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:06b6d4&height=120&section=footer"/>
 
 </div>
